@@ -13,3 +13,4 @@
 + absistfetch-CachyOS-Logo: https://github.com/akettunen/absistfetch-CachyOS-ASCII-LOGO
 + desktopfetch: https://github.com/akettunen/desktopfetch
 + jesusfetch: https://github.com/akettunen/jesusfetch
++ foxfetch-rs https://github.com/akettunen/foxfetch-rs
