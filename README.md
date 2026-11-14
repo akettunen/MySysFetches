@@ -15,3 +15,4 @@
 + jesusfetch: https://github.com/akettunen/jesusfetch
 + foxfetch-rs https://github.com/akettunen/foxfetch-rs
 + foxfetch-white-rs https://github.com/akettunen/foxfetch-white-rs
++ foxfetch-linux-rs https://github.com/akettunen/foxfetch-linux-rs
